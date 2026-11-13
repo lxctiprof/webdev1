@@ -1,0 +1,141 @@
+[
+  {
+    "no": 1,
+    "q": "데이터베이스와 엑셀의 관계에서, 데이터베이스는 엑셀의 무엇과 같은가?",
+    "img": "",
+    "a1": "엑셀 파일 그 자체",
+    "a2": "sheet(탭 1개)",
+    "a3": "행(row, 한 줄)",
+    "a4": "열(column, 필드, 항목)",    
+    "ans": 1
+  }
+  , {
+  "no": 2,
+  "q": "데이터베이스와 엑셀의 관계에서, 테이블은 엑셀의 무엇과 같은가?",
+  "img": "",
+  "a1": "엑셀 파일 그 자체",
+  "a2": "sheet(탭 1개)",
+  "a3": "행(row, 한 줄)",
+  "a4": "열(column, 필드, 항목)",    
+  "ans": 2
+  }
+  , {
+  "no": 3,
+  "q": "데이터베이스와 엑셀의 관계에서, column은 엑셀의 무엇과 같은가?",
+  "img": "",
+  "a1": "엑셀 파일 그 자체",
+  "a2": "sheet(탭 1개)",
+  "a3": "행(row, 한 줄)",
+  "a4": "열(column, 필드, 항목)",    
+  "ans": 4
+  }
+  , {
+  "no": 4,
+  "q": "데이터베이스와 엑셀의 관계에서, 데이터 하나(예: 사원정보 중 홍길동에 관한 정보)는 엑셀의 무엇과 같은가?",
+  "img": "",
+  "a1": "엑셀 파일 그 자체",
+  "a2": "sheet(탭 1개)",
+  "a3": "행(row, 한 줄)",
+  "a4": "열(column, 필드, 항목)",    
+  "ans": 3
+  }
+  , {
+  "no": 5,
+  "q": "postgreSQL를 사용중인데, 회사에 연봉 25억이 넘는 임원이 등장했다. 이 때 사용해야 하는 자료형은?",
+  "img": "",
+  "a1": "integer",
+  "a2": "bigint",
+  "a3": "numeric",
+  "a4": "boolean",
+  "ans": 2
+  }
+  , {
+  "no": 6,
+  "q": "postgreSQL에서 가장 빠르게, 정수를 저장하기 위한 자료형은?",
+  "img": "",
+  "a1": "integer",
+  "a2": "bigint",
+  "a3": "numeric",
+  "a4": "boolean",
+  "ans": 1
+  }
+  , {
+  "no": 7,
+  "q": "postgreSQL에서 소수점을 저장하기 위한 자료형은?",
+  "img": "",
+  "a1": "integer",
+  "a2": "bigint",
+  "a3": "numeric",
+  "a4": "boolean",
+  "ans": 3
+  }, {
+  "no": 8,
+  "q": "postgreSQL에서 참/거짓, YES/NO를 저장하기 위한 자료형은?",
+  "img": "",
+  "a1": "integer",
+  "a2": "bigint",
+  "a3": "numeric",
+  "a4": "boolean",
+  "ans": 4
+  }
+  , {
+  "no": 9,
+  "q": "postgreSQL에서 이름, 주소, 전화번호 등을 저장하기 위한 자료형은?",
+  "img": "",
+  "a1": "integer",
+  "a2": "varchar",
+  "a3": "numeric",
+  "a4": "date",
+  "ans": 2
+  }
+  , {
+  "no": 10,
+  "q": "postgreSQL에서 생년월일, 일정의 날짜를 저장하기 위한 자료형은?",
+  "img": "",
+  "a1": "integer",
+  "a2": "varchar",
+  "a3": "numeric",
+  "a4": "date",
+  "ans": 4
+  }
+  , {
+  "no": 11,
+  "q": "postgreSQL에서 'dogun' 테이블을 만들기 위한 sql 문은?",
+  "img": "",
+  "a1": "create dogun ...",
+  "a2": "make dogun ...",
+  "a3": "create table dogun ...",
+  "a4": "make table dogun ",
+  "ans": 3
+  }
+  , {
+  "no": 12,
+  "q": "postgreSQL에서 내가 관리하는 테이블들의 목록을 확인하는 방법은?",
+  "img": "",
+  "a1": "\\dt",
+  "a2": "\\table",
+  "a3": "\\tables",
+  "a4": "\\tt",
+  "ans": 1
+  }
+  , {
+  "no": 13,
+  "q": "postgreSQL에서 members 테이블의 구조를 확인하기 위한 코드는?",
+  "img": "",
+  "a1": "\\dt members",
+  "a2": "\\d members",
+  "a3": "\\t members",
+  "a4": "\\tt members",
+  "ans": 2
+  }
+  , {
+  "no": 14,
+  "q": "postgreSQL에서 members 테이블을 삭제하는 SQL 구문은?",
+  "img": "",
+  "a1": "delete members",
+  "a2": "drop members",
+  "a3": "delete table members",
+  "a4": "drop table members",
+  "ans": 4
+  }
+  ]
